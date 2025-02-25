@@ -37,9 +37,9 @@ options(width =70)
 
 ### Problema de Agrupamento
 
--   Aplicação: Segmentação avançada de clientes para estratégias de recomendação e marketing personalizado.
+-   Aplicação: Hiper-segmentação de clientes para estratégias de recomendação e marketing.
 -   Vetores de Características: Histórico de compras, produtos visitados, produtos adquiridos, frequência de visitas ao site, tempo médio de navegação e outras interações com a loja.
--   Rótulos ou Respostas: Agrupamento automático de clientes com perfis de comportamento semelhantes, sem necessidade de categorias pré-definidas.
+-   Rótulos ou Respostas: Agrupamento automático de clientes com perfis de comportamento semelhantes.
 
 ## Exercício 02
 
